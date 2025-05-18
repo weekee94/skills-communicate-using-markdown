@@ -4,3 +4,5 @@
 #### What is this?4
 ##### What is this?5
 ###### What is this?6
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
